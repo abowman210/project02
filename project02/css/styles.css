@@ -1,0 +1,198 @@
+/* ======================================================================================================
+                                                    COLORS USED
+    teal: #4f9da6
+    purple: #930077
+   sea turtle green: #a7d7c5
+========================================================================================================= */
+/* #header {
+    background: #4f9da6;
+    padding-top: 100px;
+    text-align: center;
+
+    position: relative;
+} */
+
+#container {
+    display: flex;
+    flex-direction: column;
+    background: #a7d7c5;
+    padding: 10px;
+}
+
+#menu {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+}
+
+#menu a {
+    color: #930077;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#menu a:hover {
+    background-color: ghostwhite;
+    color: #4f9da6;
+}
+
+#main2 img {
+    width: 300px;
+}
+
+
+
+/* 
+#footer {
+    background: #4f9da6;
+    padding: 75px;
+    position: relative;
+    text-align: center;
+} */
+
+
+.chinamedwavy {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+
+}
+
+.chinadeepwave {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+.chinaloosecurly {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+.chinashoulderbob {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+.chinaskinkystraight {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+.question,
+.name {
+    padding: 20px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background: url(../images/jumboBg2.jpg);
+    background-position: 0% 25%;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    background-size: cover;
+}
+
+/* #main{
+
+} */
+
+.thanks {
+    width: 250px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.news-header {
+    padding: 28px;
+    margin: auto 0;
+    display: block;
+    color: #930077;
+}
+
+.fqa {
+    text-align: left;
+}
+
+.copyrightfiller {
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.copyrightfiller2 {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+}
+
+.name,
+.question {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.spacediv {
+    width: 250px;
+    height: 150px;
+}
+
+.wighp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px; 
+    margin-bottom: 50px;
+    width: 900px;
+    height: 600px;
+
+}
+
+
+h3,
+p {
+    text-align: center;
+    color: #930077;
+    padding: 5px;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    color: #930077;
+}
+
+h3 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+label {
+    font-family: 'Libre Baskerville', serif;
+}
+
+body {
+    background: url('../images/bgSquares2.jpg');
+    background-size: auto;
+}
+
+h5 {
+    color: #843b62;
+    text-decoration: underline;
+}
+
+form {
+    padding: 40px;
+}
+span {
+    font-family: Dancing Script, cursive;
+    color: #ffffff;
+}
